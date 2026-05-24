@@ -37,7 +37,7 @@
     // Custom Translations / Branding override
     // You can override individual preset fields without redefining the whole preset!
     translations: (
-      institution: "Wirtschaftswissenschaftliche Fakultät", // Alternativ: "Volkswirtschaftliches Institut für Mittelstand und Handwerk (ifh)"
+      institution: "Volkswirtschaftliches Institut für Mittelstand und Handwerk an der Universität Göttingen e.V.", // Alternativ: "Volkswirtschaftliches Institut für Mittelstand und Handwerk (ifh)"
       university: "Georg-August-Universität Göttingen",
       city: "Göttingen",
     ),
