@@ -15,7 +15,7 @@
         ],
         [
           #text(size: 20pt, weight: "bold", config.translations.degree_text + "\n")
-          #config.translations.submitted_text "#config.course_of_study"
+          "#config.course_of_study"
         ],
         heading(bookmarked: false, outlined: false, numbering: none, par(leading: .6em)[
           #config.title
