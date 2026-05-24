@@ -31,7 +31,7 @@
   }
 
   // Abstract page
-  abstractpage(config: config, abstract: abstract)
+  // abstractpage(config: config, abstract: abstract)
 
   // Outline
   if config.at("show_outline", default: true) {

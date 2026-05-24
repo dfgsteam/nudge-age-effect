@@ -74,11 +74,7 @@
   ),
   
   // Bibliography (Set to none to omit it)
-  bibliography: bibliography(
-    "content/references.bib",
-    style: "ieee",
-    title: none,
-  ),
+  bibliography: none,
   
   // Appendix (Set to none to omit it)
   // appendix: include "content/appendix.typ",
