@@ -50,33 +50,39 @@
 ]
 
 #slide(title: "Forschungsfrage und Zielsetzung")[
-  #v(0.5em)
+  #set text(size: 15pt)
+  #v(-0.6em)
+  
   #block(
     fill: rgb("eff6ff"),
-    inset: 15pt,
+    inset: 10pt,
     radius: 6pt,
     stroke: 1pt + rgb("bfdbfe"),
     width: 100%,
     [
       #text(weight: "bold", fill: rgb("1d4ed8"), size: 14pt)[Zentrale Forschungsfrage:] \
-      #v(0.3em)
-      #text(size: 16.5pt, style: "italic", weight: "medium")[
+      #v(0.1em)
+      #text(style: "italic", size: 14.5pt)[
         "Wie beeinflusst das Alter die Verarbeitung und Wirksamkeit von Informations-Nudges, und welche Implikationen ergeben sich daraus für den zielgruppenorientierten Einsatz (Targeting) von Energie-Feedback?"
       ]
     ]
   )
   
-  #v(0.8em)
+  #v(0.3em)
   #grid(
     columns: (1fr, 1fr),
     gutter: 1.5em,
     [
-      #text(weight: "bold", fill: rgb("1a5fb4"))[Theoretische Basis] \
-      Verständnis der psychologischen Mechanismen des Nudgings und der Rolle kognitiver Ressourcen (Zeit und Aufmerksamkeit).
+      #text(weight: "bold", fill: rgb("1a5fb4"), size: 14pt)[Ziel der Arbeit] \
+      #v(0.1em)
+      - *Theoretische Basis*: Wirkungsweise von Informations-Nudges verstehen.
+      - *Empirische Evaluierung*: Einfluss demografischer Faktoren – insbesondere des Alters – auf den Erfolg von Maßnahmen untersuchen.
     ],
     [
-      #text(weight: "bold", fill: rgb("1a5fb4"))[Empirische Evaluierung] \
-      Analyse der altersabhängigen Reaktion auf Feedback im Strommarkt zur Steigerung der Kosteneffizienz.
+      #text(weight: "bold", fill: rgb("1a5fb4"), size: 14pt)[Struktur der Untersuchung] \
+      #v(0.1em)
+      - *Teil 1 (Theorie)*: Psychologische Mechanismen des Nudgings und die Rolle kognitiver Ressourcen (Zeit & Aufmerksamkeit).
+      - *Teil 2 (Empirie)*: Strommarkt-Evidenz zur Erklärung altersabhängiger Reaktionen zur Verbesserung der Kosteneffizienz.
     ]
   )
 ]
