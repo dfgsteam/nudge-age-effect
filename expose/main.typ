@@ -21,7 +21,7 @@
     // --- Advanced Customization Options (Dynamic Customization) ---
     
     // Draft Mode (Set to true to show a DRAFT watermark and render all #todo() boxes)
-    draft: true,
+    draft: false,
     
     // Custom Logo (Default: "/images/ugo-logo.svg")
     // Set to none to hide the logo, or specify an absolute path to a custom SVG/JPG/PNG
