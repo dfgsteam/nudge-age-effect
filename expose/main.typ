@@ -56,7 +56,7 @@
       address: [Heinrich-Düker-Weg 6\ 37073 Göttingen\ Germany], // Das ist die Adresse des ifh, wo das Seminar stattfindet
       phone: "+49 (551) 39-34882",
       fax: "+49 (551) 39-14403",
-      email: "luisa.pitulle@uni-goettingen.de",
+      email: "alexander.erlei@wiwi.uni-goettingen.de",
       website: "ifh.wiwi.uni-goettingen.de",
     ),
   ),
