@@ -15,6 +15,7 @@
   // style links and references in a sleek, modern, borderless way
   show link: set text(fill: rgb("1a5fb4"))
   show ref: set text(fill: rgb("0f766e"))
+  show cite: set text(fill: rgb("1a5fb4"))
 
   // style headings in the document to be consistent with LaTeX
   set heading(numbering: "1.1")

@@ -84,7 +84,12 @@
   ),
   
   // Bibliography (Set to none to omit it)
-  bibliography: none,
+  bibliography: bibliography(
+    "content/references.bib",
+    style: "apa",
+    title: none,
+    full: true,
+  ),
   
   // Appendix (Set to none to omit it)
   appendix: none,

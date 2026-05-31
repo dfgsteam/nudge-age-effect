@@ -17,6 +17,9 @@
   show ref: it => {
     box(it, stroke: 1pt + green, outset: (bottom: 1.5pt, x: .5pt, y: .5pt))
   }
+  show cite: it => {
+    box(it, stroke: 1pt + green, outset: (bottom: 1.5pt, x: .5pt, y: .5pt))
+  }
 
   // style headings in the document to be consistent with LaTeX
   set heading(numbering: "1.1")
